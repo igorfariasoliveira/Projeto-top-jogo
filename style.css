@@ -1,18 +1,8 @@
-.sidebar {
-  display: none;
+* {
+  margin: 0px;
+  padding: 0px;
 }
 
-@media (min-width: 768px) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 250px;
-    padding: 20px;
-    background-color: #f8f9fa;
-    border-right: 1px solid #dee2e6;
-    overflow-y: auto;
-    display: block; /* Mostrar a barra lateral em telas maiores */
-  }
+.card-text{
+  text-align: justify;
 }
