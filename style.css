@@ -17,6 +17,8 @@ footer{
   text-align: center;
   color: white;
 }
-footer p{
-  
+footer a {
+  text-decoration: none  !important;
+  font-weight: bold;
+  color: white;
 }
